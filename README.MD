@@ -1,5 +1,5 @@
-<h1>Hello! I'm Gaspar Castillo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+<h1>Hello! I'm Gaspar Castillo<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🤓</h1>
+<h2>Web Developer 💻</h2>
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -14,7 +14,8 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/gaspar-castillo-catrifol-78414625b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gaspar%20Castillo-green?style=flat-square&logo=linkedin"></a>
-<a href="gaspar.c.developer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gaspar.c.developer@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/gaspar-castillo-catrifol-78414625b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gaspar%20Castillo-green?style=flat-square&logo=linkedin" />
+<br>
+<a href="gaspar.c.developer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gaspar.c.developer@gmail.com-blue?style=flat-square&logo=gmail" />  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isakiDev&label=Profile%20views&color=0e75b6&style=flat" alt="isakiDev" /> </p>
