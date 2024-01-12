@@ -1,4 +1,4 @@
-<h1>Hello! I'm Gaspar Castillo<img   src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello! I'm Gaspar Castillo  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2>Web Developer 💻</h2>
 
 ### Technologies
