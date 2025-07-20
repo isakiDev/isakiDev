@@ -1,14 +1,94 @@
-<h1 align="center">Hi 👋, I'm Gaspar Castillo Catrifol</h1>
-<h3 align="center">A passionate web developer from Chile</h3>
+# 👋 Welcome, I'm Gaspar Castillo
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,redux,tailwind,mongo,mysql,postgres,git,docker)](https://skillicons.dev)
+## 🙋 About Me
 
-<h3 align="left">Contact:</h3>
+I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about technology** 💻, especially **programming** 👨‍💻, **web development** 🌐, and **Linux** 🐧.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isakidev.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isakidev/)
-[![email](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaspar.c.developer@gmail.com)
+🧠 I like to learn and be better every day  
+📚 I'm working on improving my English to better understand this beautiful language  
+🤝 I enjoy teamwork, receiving feedback, and helping others
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isakidev&show_icons=true&locale=en&layout=compact" alt="isakidev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isakidev&" alt="isakidev" /></p>
+### 💻 Web Developer
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](https://github.com/INGCapaDev)
+
+---
+
+## 🧰 Technologies I Use
+
+<div align="left">
+
+### 🧠 Languages  
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+
+<br><br>
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mongo" height="40" alt="MongoDB" />
+
+<br><br>
+
+### ⚙️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" />
+
+<br><br>
+
+### 🛠️ DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+
+<br><br>
+
+### 🐧 Operating Systems  
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
+
+<br><br>
+
+### 🖥️ Development Environment  
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+
+</div>
+
+---
+
+## 🔗 Links
+
+[![Website](https://img.shields.io/badge/Website-isakidev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://isakidev.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/isakidev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isakidev/)
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/gaspar.c.developer@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gaspar.c.developer@gmail.com)
