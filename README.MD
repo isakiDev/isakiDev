@@ -27,16 +27,12 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
 
-<br><br>
-
 ### 🗄️ Databases  
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="MongoDB" />
-
-<br><br>
 
 ### ⚙️ Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
@@ -53,8 +49,6 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" />
 
-<br><br>
-
 ### 🛠️ DevOps & Tools  
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 <img width="12" />
@@ -64,16 +58,12 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 
-<br><br>
-
 ### 🐧 Operating Systems  
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
-
-<br><br>
 
 ### 🖥️ Development Environment  
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
