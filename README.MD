@@ -12,7 +12,7 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 
 ### 💻 Web Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](https://github.com/INGCapaDev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=isakiDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](https://github.com/isakiDev)
 
 ---
 
