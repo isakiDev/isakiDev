@@ -46,8 +46,6 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" />
 
 ### 🛠️ DevOps & Tools  
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
@@ -67,6 +65,13 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 
 ### 🖥️ Development Environment  
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+
+### 📚 Learning & Reinforcing Skills
+<img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="Css" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" />
 
 </div>
 
