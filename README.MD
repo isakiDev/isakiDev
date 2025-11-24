@@ -79,7 +79,7 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 
 ## 🔗 Links
 
-[![Website](https://img.shields.io/badge/Website-isakidev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://isakidev.netlify.app)  
+[![Website](https://img.shields.io/badge/Website-isakidev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://isakidev.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/isakidev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isakidev/)
 
 ---
