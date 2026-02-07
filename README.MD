@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gaspar Castillo
+# 👋 Hola, soy Gaspar
 
 ## 🙋 Sobre mí
 
