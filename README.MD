@@ -1,40 +1,40 @@
-# 👋 Welcome, I'm Gaspar Castillo
+# 👋 Hola, soy Gaspar Castillo
 
-## 🙋 About Me
+## 🙋 Sobre mí
 
-I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about technology** 💻, especially **programming** 👨‍💻, **web development** 🌐, and **Linux** 🐧.
+Soy un apasionado "nerd" autoproclamado 🤓 que **ama todo lo relacionado con la tecnología** 💻, especialmente la **programación** 👨‍💻, el **desarrollo web** 🌐 y **Linux** 🐧.
 
-🧠 I like to learn and be better every day  
-📚 I'm working on improving my English to better understand this beautiful language  
-🤝 I enjoy teamwork, receiving feedback, and helping others
+🧠 Me gusta aprender y ser mejor cada día  
+📚 Estoy trabajando en mejorar mi inglés para entender mejor este hermoso idioma  
+🤝 Disfruto del trabajo en equipo, recibir retroalimentación y ayudar a los demás
 
 ---
 
-### 💻 Web Developer
+### 💻 Desarrollador Web
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=isakiDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](https://github.com/isakiDev)
 
 ---
 
-## 🧰 Technologies I Use
+## 🧰 Tecnologías que utilizo
 
 <div align="left">
 
-### 🧠 Languages  
+### 🧠 Lenguajes  
 <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
 
-### 🗄️ Databases  
+### 🗄️ Bases de Datos  
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="MongoDB" />
 
-### ⚙️ Frameworks & Libraries  
+### ⚙️ Frameworks y Librerías  
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
@@ -47,7 +47,7 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
 
-### 🛠️ DevOps & Tools  
+### 🛠️ DevOps y Herramientas  
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
@@ -56,17 +56,17 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 
-### 🐧 Operating Systems  
+### 🐧 Sistemas Operativos  
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
 
-### 🖥️ Development Environment  
+### 🖥️ Entorno de Desarrollo  
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
 
-### 📚 Learning & Reinforcing Skills
+### 📚 Aprendiendo y Reforzando habilidades
 <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="Css" />
@@ -77,13 +77,13 @@ I’m a passionate, self-proclaimed nerd 🤓 who **loves everything about techn
 
 ---
 
-## 🔗 Links
+## 🔗 Enlaces
 
-[![Website](https://img.shields.io/badge/Website-isakidev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://isakidev.vercel.app)  
+[![Website](https://img.shields.io/badge/Sitio_Web-isakidev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://isakidev.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/isakidev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isakidev/)
 
 ---
 
-## 📬 Contact
+## 📬 Contacto
 
 [![Email](https://img.shields.io/badge/gaspar.c.developer@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gaspar.c.developer@gmail.com)
